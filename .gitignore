@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions (DLLs, EXEs, etc.)
+*.so
+*.pyd
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+sdist/
+*.egg-info/
+.python-version
+_build/
+wheels/
+MANIFEST.in
+*.whl
+*.pth
+.env
+.venv
+env/
+venv/
+ENV/
+pyvenv.cfg
+
+# PyInstaller / cx_Freeze
+__pyinstaller/
+_MEI*/
+*.spec
+pyproject.toml
+poetry.lock
+
+# Unit test / coverage reports
+.tox/
+nosetests.xml
+coverage*
+*.coveragerc
+.cache
+pytest_cache/
+.pytest_cache/
+htmlcov/
+.mypy_cache/
+
+# Jupyter Notebook related files
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Emacs and other editors
+*~
+\#*\#
+*.elc
+*.pyc
+
+# OS or editor specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Optional - Custom project specific ignores can be added below
+# Example:
+# my_secret_config.ini
+# data/large_dataset.csv
